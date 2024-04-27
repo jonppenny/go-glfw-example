@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/go-gl/glfw/v3.3/glfw"
 	"runtime"
+
+	"github.com/go-gl/glfw/v3.3/glfw"
 )
 
 func init() {
