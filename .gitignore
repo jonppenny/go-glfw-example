@@ -20,7 +20,8 @@
 # Go workspace file
 go.work
 
+*.lock
+*-package.lock
 *.idea
 *.swp
-/build/*
-!/build/.keep
+/_build/
