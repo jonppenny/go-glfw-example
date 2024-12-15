@@ -25,3 +25,4 @@ go.work
 *.idea
 *.swp
 /_build/
+go_glfw_example
